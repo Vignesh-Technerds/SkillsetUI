@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.744acd74.css",
+    "main.js": "/static/js/main.9b4cd156.js",
+    "static/js/839.814bd551.chunk.js": "/static/js/839.814bd551.chunk.js",
+    "static/js/787.19d9148c.chunk.js": "/static/js/787.19d9148c.chunk.js",
+    "static/media/poppins-devanagari-400-italic.woff": "/static/media/poppins-devanagari-400-italic.08359c079f3cb3015ed5.woff",
+    "static/media/poppins-devanagari-400-normal.woff": "/static/media/poppins-devanagari-400-normal.0e11b62db931f85340d4.woff",
+    "static/media/poppins-devanagari-400-italic.woff2": "/static/media/poppins-devanagari-400-italic.4157d9bb9108d66d8269.woff2",
+    "static/media/poppins-devanagari-400-normal.woff2": "/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/RicondoLogo.png": "/static/media/RicondoLogo.a74cf4533eb37f9a3f14.png",
+    "static/media/poppins-latin-400-italic.woff": "/static/media/poppins-latin-400-italic.08cba85173043cb4dba8.woff",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.cda9c93f49237f11c766.woff",
+    "static/media/poppins-latin-400-italic.woff2": "/static/media/poppins-latin-400-italic.ed357fa1fa06a3e00d46.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-italic.woff": "/static/media/poppins-latin-ext-400-italic.4e16b7fdbb99ff8cdc89.woff",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.8cc52669c8e8a6735699.woff",
+    "static/media/poppins-latin-ext-400-italic.woff2": "/static/media/poppins-latin-ext-400-italic.e1a411cc63cfee23efaa.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/skill-master.svg": "/static/media/skill-master.5d9b44187b08e8a3ecf3.svg",
+    "static/media/people.svg": "/static/media/people.c53ff88f3432de16b42c.svg",
+    "static/media/verification.svg": "/static/media/verification.837a986035b7e31c7e37.svg",
+    "static/media/skill-group.svg": "/static/media/skill-group.048962f35662d5030f41.svg",
+    "static/media/user.svg": "/static/media/user.aadcba39c2f845ebb93d.svg",
+    "static/media/profile.svg": "/static/media/profile.67313facca6713e46755a0f833420840.svg",
+    "static/media/support.svg": "/static/media/support.ddf29f81525d4c3ff568.svg",
+    "index.html": "/index.html",
+    "static/media/category.svg": "/static/media/category.cb7b9c760fbb6e44d2d7.svg",
+    "static/media/menuline.svg": "/static/media/menuline.be0cef002825c2765a9ede5dffbd48f1.svg",
+    "static/media/Hamburger_Menu.svg": "/static/media/Hamburger_Menu.04f4717443a31f5a2f21ff249b3415d3.svg",
+    "static/media/skill.svg": "/static/media/skill.5ca78e024a35a2ade633.svg",
+    "static/media/skill1.svg": "/static/media/skill1.5ca78e024a35a2ade633.svg",
+    "main.744acd74.css.map": "/static/css/main.744acd74.css.map",
+    "main.9b4cd156.js.map": "/static/js/main.9b4cd156.js.map",
+    "839.814bd551.chunk.js.map": "/static/js/839.814bd551.chunk.js.map",
+    "787.19d9148c.chunk.js.map": "/static/js/787.19d9148c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744acd74.css",
+    "static/js/main.9b4cd156.js"
+  ]
+}
